@@ -58,15 +58,15 @@ Performed using Power Query:
 
 ### Executive Overview
 
-![Executive Overview](screenshots/Executive_Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 ### Operations & Profit Analysis
 
-![Operations Analysis](screenshots/Operations_Analysis.png)
+![Operations Analysis](Operations_Analysis.png)
 
 ### Customer Analytics
 
-![Customer Analytics](screenshots/Customer_Analytics.png)
+![Customer Analytics](Customer_Analytics.png)
 
 ## Business Insights
 
